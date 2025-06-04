@@ -1,4 +1,4 @@
-# 🧠 Credit Card Default Prediction
+![image](https://github.com/user-attachments/assets/1a579ba3-514e-4ea1-b474-3c6ac0882fd3)# 🧠 Credit Card Default Prediction
 
 This project uses machine learning techniques to predict whether a customer will default on their credit card payment next month based on various demographic and financial features.
 
@@ -71,7 +71,8 @@ These could be considered for dimensionality reduction or feature selection to a
 
 ### 🖼 Heatmap:
 
-![Correlation Heatmap](correlation_heatmap.png)
+![image](https://github.com/user-attachments/assets/7fea6338-5089-48af-a71b-1b7b1d85f4c2)
+
 
 ---
 
